@@ -1,4 +1,4 @@
-# Tailwind CSS Color Palette
+# Tailwind CSS Color Palette Visualizer
 
 An interactive color palette viewer for Tailwind CSS that makes it easy to browse and copy color values for your projects.
 
@@ -82,11 +82,3 @@ const tailwindColors = [
 ## License
 
 MIT License
-
-## Contributing
-
-Found a bug or have a suggestion? Feel free to open an issue or submit a pull request.
-
----
-
-Made with ❤️ for the Tailwind CSS community
