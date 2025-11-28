@@ -212,30 +212,6 @@ html {
 		padding-bottom: 1rem;
 	}
 
-	.color-picker {
-		flex-direction: column;
-		max-width: 100%;
-		min-height: 700px;
-	}
-
-	.left-panel {
-		border-right: none;
-		border-bottom: 3px solid #e5e7eb;
-		overflow-x: auto;
-		-webkit-overflow-scrolling: touch;
-	}
-
-	.color-selector {
-		flex-direction: row;
-		padding: 1rem;
-		gap: 0.5rem;
-		width: max-content;
-	}
-
-	.color-selector label {
-		padding: 0.5rem;
-	}
-
 	.palette-wrapper {
 		padding: 1.5rem;
 	}
