@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tailwind CSS Color Palette Visualizer</title>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Fira+Code:wght@500&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div class="container">
+		<div class="header">
+		<h1>Tailwind CSS Color Palette</h1>
+		<p>Click on <strong>shade numbers</strong> to copy Tailwind classes<br>Click on <strong>hex values</strong> to copy color codes</p>
+		</div>
+		<div class="color-picker">
+		<div class="left-panel">
+			<ul class="color-selector" id="colorSelector"></ul>
+		</div>
+		<div class="right-panel" id="paletteContainer"></div>
+		</div>
+	</div>
+<script src="script.js"></script>
+</body>
+</html>
